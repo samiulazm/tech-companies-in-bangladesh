@@ -533,9 +533,9 @@ https://www.linkedin.com/company/dhrubokinfotech/[LinkedIn]
 |https://www.infocratsolutions.com/[Website]
 |Please update
 
-|Inovace Technologies
+|Inovace Technologies Limited
 |4th Floor,  18 Kazi Nazrul Islam Ave, Dhaka 1205
-|PHP, Laravel, MySQL, Java, MQTT, Python, Spring boot, Kafka, JavaScript, Bootstrap, PostgreSQL, Angular, Vue, Wordpress
+|PHP, Laravel, MySQL, MS-SQL Server, Java, MQTT, Python, Spring boot, Kafka, JavaScript, Node.js, Flask, Bootstrap, PostgreSQL, Angular.js, Vue.js, Wordpress, C#, .NET , IoT, C, C++
 |https://inovacetech.com/[Website]
 |Please update
 
